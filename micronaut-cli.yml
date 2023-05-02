@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example.spring
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jpa, h2, http-client, jackson-databind, java, java-application, jdbc-hikari, jetty-server, junit, logback, maven, readme, shade, spring, spring-boot, spring-data-jpa, spring-web, yaml]
